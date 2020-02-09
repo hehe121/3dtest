@@ -1,2 +1,0 @@
-# 3dtest
-just test
